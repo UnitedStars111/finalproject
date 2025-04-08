@@ -231,6 +231,7 @@ image1:hover {
 }
 
 #contactbackground {
+	title: "Copyright: Ivan Stepanov on Unsplash";
 	background: transparent url(images/bwbuilding.jpg) no-repeat;
 	margin-top: 10px;
 	margin: auto;
