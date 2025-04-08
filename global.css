@@ -114,6 +114,7 @@ p#largertext {
 	margin: 0px;
 	border-bottom: 0px;
 	opacity: 0.5;
+	transition: 0.5s;
 }
 
 #image1:hover {
@@ -131,9 +132,10 @@ p#largertext {
 	border-top: 0px;
 	border-bottom: 0px;
 	opacity: 0.5;
+	transition: 0.5s
 }
 
-image1:hover {
+image2:hover {
 	opacity: 1;
 	transition: 0.5s;
 }
