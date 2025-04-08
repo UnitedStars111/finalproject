@@ -113,6 +113,12 @@ p#largertext {
 	padding: 0px;
 	margin: 0px;
 	border-bottom: 0px;
+	opacity: 0.5;
+}
+
+#image1:hover {
+	opacity: 1;
+	transition: 0.5s;
 }
 
 #image2 {
@@ -124,6 +130,12 @@ p#largertext {
 	border: 5px solid black;
 	border-top: 0px;
 	border-bottom: 0px;
+	opacity: 0.5;
+}
+
+image1:hover {
+	opacity: 1;
+	transition: 0.5s;
 }
 
 #pricetext {
